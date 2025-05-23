@@ -57,7 +57,7 @@ We used the **WELFake** dataset, which includes over 72,000 labeled news article
 
 ## 📎 Report & Presentation
 
-See the full [project report (PDF)](link-to-pdf-if-hosted) for methodology, results, and discussion.
+The report is available on Canvas to the markers.
 
 ## 📌 Future Work
 
