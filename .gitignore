@@ -1,4 +1,4 @@
 .env
-datasets/*
+datasets/*.csv
 
 *.pyc

@@ -1,0 +1,2 @@
+Download https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
+and name the file WELFake_Dataset.csv
