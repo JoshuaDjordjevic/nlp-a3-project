@@ -65,7 +65,7 @@ See the full [project report (PDF)](link-to-pdf-if-hosted) for methodology, resu
 * Integration with a browser extension or article credibility scoring tool
 * Fine-tuning with full BERT embeddings
 
-## 🧑‍💻 Author
+## 💻 Author
 
 **Joshua Djordjevic**
 This project was developed as part of an NLP university assignment.
