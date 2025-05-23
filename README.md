@@ -43,7 +43,7 @@ We used the **WELFake** dataset, which includes over 72,000 labeled news article
 
 4. Run the models:
 
-   * Check out the individual notebooks (`naive_bayes.ipynb`, `support_vector_machine.ipynb`, `TextCNN.ipynb`, etc.)
+   * Check out the individual notebooks (`naive_bayes.ipynb`, `support_vector_machine.ipynb`, `text_cnn.ipynb`, etc.)
 
 ## 📊 Results Summary
 
